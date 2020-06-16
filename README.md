@@ -1,9 +1,9 @@
 # GrpcDemo
 net framework grpc
-# protocol 官网
+## protocol 官网
 https://developers.google.com/protocol-buffers
 
-# 步骤
+## 步骤
  1. 新建工程GrpcClient、GrpcServer和GrpcLibrary 。
  2. 三个项目GrpcClient、GrpcServer、GrpcLibrary均安装程序包Grpc。 
  3. 三个项目GrpcClient、GrpcServer、GrpcLibrary均安装程序包Google.Protobuf 。 
